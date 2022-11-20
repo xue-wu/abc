@@ -1,6 +1,6 @@
 {
 //"spider":"https://gitee.com/haitang123/abc/raw/master/jar/xo.jar;md5;383b528861dbf17e3178966b690a4019",
-"spider":"https://notabug.org/cacifer/haitang/raw/master/jar/1112.jar;md5;2057b7a1f6220a9913e8672e146396f6",
+"spider":"https://gitee.com/haitang123/abc/raw/master/jar/1112.jar;md5;ae28c0685a24003de8123f93c74ff6a4",
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 
