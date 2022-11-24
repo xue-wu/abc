@@ -11,7 +11,7 @@
 {"key":"csp_BBB","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/haitang123/abc/raw/master/json/bili.json"},
 {"key":"csp_Alist1","name":"网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/haitang123/abc/raw/master/json/alist.json"},
 {"key": "csp_XYQ_lu1","name": "️电视直播1","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://notabug.org/cacifer/haitang/raw/master/json/%e6%9f%a0%e6%aa%acTV.json"},
-{"key":"csp_视频","name":"直播转点播","type":3,"api":"csp_xBPQ","ext":""},
+{"key":"csp_视频","name":"直播转点播","type":3,"api":"csp_xBPQ","ext":"https://gitee.com/haitang123/abc/raw/master/json/zbzdb.json"},
 {"key":"空格90","name":"#其他#","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看|","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七|","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
