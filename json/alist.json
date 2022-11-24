@@ -1,5 +1,11 @@
 [
-        {
+    {
+        "name" : "好看",
+        "server" : "https://alist02.cacifer.repl.co",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },{
         "name" : "🙋丫仙女",
         "server" : "http://alist.xiaoya.pro/",
         "startPage" : "/",
