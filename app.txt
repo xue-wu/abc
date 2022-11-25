@@ -3,9 +3,9 @@
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "sites":[
-//{"key":"douban","name":"影视1","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"douban","name":"影视","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
 //{"key":"dr_豆瓣","name":"影视2","type":4,"api":"http://drpy.ganggang.live:5705/vod?pwd=dzyyds&rule=drpy","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"js豆瓣","name":"影视","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+//{"key":"js豆瓣","name":"影视","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_BBB","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/haitang123/abc/raw/master/json/bili.json"},
 {"key":"csp_Alist1","name":"网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 //{"key" : "drpy_js_Alist","name":"Alist[DRPY]","type":3,"api":"./lib/alist.min.js","ext":"./json/alist.json"},
