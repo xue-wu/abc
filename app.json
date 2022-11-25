@@ -6,10 +6,11 @@
 
 "sites":[
 //{"key":"js豆瓣","name":"影视1","type":3,"api":"./dr/影魔.js","ext":"./dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"t4豆瓣","name":"影视","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key":"csp_Bili","name":"戏曲","type": 3,"api": "csp_Bili","playerType":2,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./json/bili.json"},
-{"key": "AList","name": "网盘","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": "./json/alist.json","jar":"./jar/cs1.jar"},
-{"key": "csp_XYQ_lu1","name": "️电视直播1","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable":0,"ext":"https://notabug.org/cacifer/haitang/raw/master/json/%e6%9f%a0%e6%aa%acTV.json"},
+{"key":"t4豆瓣","name":"→影视←","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"csp_Bili","name":"→戏曲←","type": 3,"api": "csp_Bili","playerType":2,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"./json/bili.json"},
+{"key": "AList","name": "→网盘←","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext": "./json/alist.json","jar":"./jar/cs1.jar"},
+//{"key": "csp_XYQ_lu1","name": "️电视直播1","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable":0,"ext":"https://notabug.org/cacifer/haitang/raw/master/json/%e6%9f%a0%e6%aa%acTV.json"},
+{"key":"空格90","name":"↓↓↓其他↓↓↓","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七┃","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📺360┃","type":3,"api":"csp_SP360","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"teng","name":"🐧小腾┃","type": 3,"api":"csp_QQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable":1},
