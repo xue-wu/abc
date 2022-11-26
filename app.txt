@@ -1,5 +1,5 @@
 {
-"spider":"./jar/xo.jar;md5;911044dbc15a13d404ee076ce6c3f54e",
+"spider":"https://raw.iqiq.io/xue-wu/abc/master/jar/xo.jar;md5;911044dbc15a13d404ee076ce6c3f54e",
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "sites":[
